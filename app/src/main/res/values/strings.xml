@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My AppPrefer2</string>
+    <string name="store_data">store data</string>
+    <string name="view_data">view data</string>
+    <string name="login">Login info</string>
+    <string name="string">username</string>
+    <string name="etr">etr usr name</string>
+    <string name="user">username</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="etrpass">etr ur password</string>
+    <string name="passw">password</string>
+    <string name="usr11">usrname and pass</string>
+    <string name="set">setting</string>
+    <string name="check">checkbox</string>
+    <string name="onoff">on/off</string>
+    <string name="log">keep me loged in</string>
+    <string name="data">data</string>
+</resources>
